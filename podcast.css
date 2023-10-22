@@ -1,0 +1,107 @@
+.bgp
+{
+    width:380px;
+    margin:auto;
+
+}
+
+.im1
+{
+    height:130px;
+    width:170px;
+    margin-top:5px;
+    
+
+    
+}
+
+.mcard
+{
+    height:200px;
+    background-color:darkblue;
+    padding:25px;
+}
+.textp
+{
+    margin-left:5px;
+    color:white;
+    font-size:13px;
+    margin-top:10px;
+}
+
+.textm
+{
+    margin-left:5px;
+    color:rgba(3, 65, 136, 0.582);
+    font-size:15px;
+    margin-top:10px;
+}
+.carda
+{
+    padding:10px;
+}
+.button
+{
+    color:white;
+    background-color:darkblue;
+    border-radius:15px;
+    width:100px;
+    margin-left:280px;
+}
+.im2
+{
+    height:110px;
+    width:170px;
+    margin-top:2px;
+    
+
+    
+}
+.hc{
+    color:darkblue;
+    font-weight: 600;
+}
+.ti
+{
+    margin-top:3px;
+    font-size:10px;
+    color:rgba(3, 65, 136, 0.582);
+}
+
+.b1
+{
+    width:350px;
+    position:relative;
+    margin:auto;
+}
+.im
+{
+    height:250px;
+    width:370px;
+}
+.imr
+{
+    height:100px;
+    width:150px;
+
+    
+}
+
+.cardcontainer
+{
+    padding:10px;
+    background-color:white;
+    text-align:center;
+    
+    margin:10px;
+   border-radius:10px;
+   
+    
+   height:170px;
+   width:175px;
+
+}
+.h
+{
+    margin-top:5px;
+}
